@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 
 public class movie
 {
-    private int id;
+   /* private int id;
     private String name;
     private String movietype;
     private int totalseats;
@@ -63,7 +63,7 @@ public class movie
                 ", seatsavailable=" + seatsavailable +
                 '}';
     }
-
+*/
     public void showmovies()
     {
         /*try
